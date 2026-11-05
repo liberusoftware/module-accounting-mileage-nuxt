@@ -1,0 +1,15 @@
+{
+  "repository": "module-accounting-mileage-nuxt",
+  "capabilityKey": "liberusoftware/module-accounting-mileage",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-accounting-mileage-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/accounting/nextjs/mileage.md",
+  "presentationPlan": "projects/accounting/nuxt/mileage.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "accounting"
+  ]
+}
